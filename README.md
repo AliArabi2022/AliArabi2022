@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ali arabi 
+### Hi there 👋, my name is **Ali Arabi bavil** 
 #### I hold an MSc in Communication Systems
 ![I hold MSc Communication Systems](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

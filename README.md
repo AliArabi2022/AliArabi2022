@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Ali arabi 
 #### I hold an MSc in Communication Systems
-![I hold MSc Communication Systems]
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I hold MSc Communication Systems](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 

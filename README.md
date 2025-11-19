@@ -1,11 +1,7 @@
 ### Hi there 👋, my name is **Ali Arabi bavil** 
 #### I hold an MSc in Communication Systems
-![I hold MSc Communication Systems](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-https://arturssmirnovs.github.io/github-profile-readme-generator/
-
-
-Skills: Python
+Skills: Python & Matlab
 
 - 🔭 I’m currently working on Ml 
 - 🌱 I’m currently learning computer vision  

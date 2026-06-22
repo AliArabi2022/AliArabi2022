@@ -1,11 +1,7 @@
 ### Hi there 👋, my name is **Ali Arabi bavil** 
-#### I hold an MSc in Communication Systems
 
-Skills: Python & Matlab
+Computer vision · Signal processing · RF/Radar
 
-- 🔭 I’m currently working on Ml 
-- 🌱 I’m currently learning computer vision  
-- 👯 I’m looking to collaborate on embended systems  
-- 🤔 I’m looking for help with positions 
-- 💬 Ask me about My experiences 
-- 📫 How to reach me: Email and telegram 
+
+I believe real understanding comes from getting your hands dirty — implementing things from scratch, breaking them, and fixing them — not from reading papers alone. Below you'll find everything from deep learning fundamentals to passive radar experiments and hyperspectral remote sensing, all built as part of that process
+- 📫 How to reach me: Email and Telegram AND Linkdin
